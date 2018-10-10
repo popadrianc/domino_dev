@@ -1,0 +1,2 @@
+test 12345 . fisier creat pentru testarea unei optiuni din meniu
+o alta modificare pentru test
