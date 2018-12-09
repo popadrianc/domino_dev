@@ -1,4 +1,4 @@
-from mods.g1 import battle_tags
+from mods.g1 import game_tags
 
 
 
