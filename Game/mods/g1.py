@@ -44,8 +44,5 @@ def battle(php, pap, ehp, eap, pnm, enm):
         elif ehp >= 0 & php >= 0:
             continue
 
-
-battle(php, pap, ehp, eap, charname, ename)
-
 def game_tags():
-    battle()
+    battle(php, pap, ehp, eap, charname, ename)
