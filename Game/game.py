@@ -41,7 +41,7 @@ def main_menu():
             char_name = input(">>>")
             print("Howdy", char_name)
             print("Let's roll the dice!")
-            battle_tags()
+            print(game_tags())
         if choice_menu1 == 0:
             main_menu()
 
