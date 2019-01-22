@@ -1,0 +1,28 @@
+Plotly-Dashboards-with-Dash : https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash
+Python Narrative Journey Course  : https://github.com/Pierian-Data/Python-Narrative-Journey
+Mathematics and neuroscience deep learning : https://github.com/Pierian-Data/foundations_for_deep_learning
+Chatbot-rnn : https://github.com/Pierian-Data/chatbot-rnn
+Python3 Bootcamp : https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+Discord RTFMbot : https://github.com/Pierian-Data/RTFMbot
+Hand Gesture Detection : https://github.com/Pierian-Data/Hand_Detection
+Statistical Learning with Applications : https://github.com/Pierian-Data/ISLR-python
+Python 3 readiness : https://github.com/Veenits123/py3readiness
+Interactive-Dictionary : https://github.com/rajharsh81070/python-projects/tree/master/Interactive-Dictionary
+Machine Learning Engineer Nanodegree : https://github.com/rajharsh81070/Machine-Learning-Projects/tree/master/p0.titanic_survival_exploration
+PyTorch Tutorials Zero to ALL : https://github.com/warrenween/PyTorchZeroToAll
+Google Searcher : https://github.com/RaviMrk/Python-google-searcher
+Python essential training : https://github.com/hussien89aa/PythonTutorial
+Python for Beginners : https://github.com/hussien89aa/PythonUdemy
+Python Learning : https://github.com/dolphincat/Python
+Instabot : https://github.com/bkawan/instabot
+Interactive coding challenges: https://github.com/bkawan/interactive-coding-challenges
+Sarah : https://github.com/bkawan/sarah
+Check website status: https://github.com/bkawan/check-website-status
+
+
+
+
+
+
+
+
