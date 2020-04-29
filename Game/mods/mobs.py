@@ -1,4 +1,0 @@
-def assasin.stats = {
-                    'hp':
-
-}
